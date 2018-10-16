@@ -7,3 +7,5 @@ Another commit on dev branch.
 This is feature 1 !
 
 LAst commit on dev before merge master.
+
+It's me again, the dev branch.
