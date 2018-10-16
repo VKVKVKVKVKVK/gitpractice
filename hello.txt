@@ -5,3 +5,5 @@ This line was written in the dev branch !
 Another commit on dev branch.
 
 This is feature 1 !
+
+LAst commit on dev before merge master.
